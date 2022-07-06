@@ -1,0 +1,5 @@
+baseURL: 'https://tzmik.github.io'
+title: 'Mikel Cantero'
+theme: PaperMod
+pagination: 5
+defaultContentLanguage: es
