@@ -3,3 +3,33 @@ title: 'Mikel Cantero'
 theme: PaperMod
 pagination: 5
 defaultContentLanguage: es
+params:
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  profileMode:
+    enabled: true 
+    title: "Mikel Cantero"
+    subtitle: "Desarrollador de software"
+    buttons:
+      - name: "Blog"
+        url: "/post"
+  
+  assets:
+    favicon: "/static/favicon.ico"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/TzMik"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/mikel-cantero-loi/"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
