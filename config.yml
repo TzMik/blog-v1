@@ -16,9 +16,6 @@ params:
       - name: "Blog"
         url: "/post"
   
-  assets:
-    favicon: "/static/favicon.ico"
-
   socialIcons:
     - name: "github"
       url: "https://github.com/TzMik"
