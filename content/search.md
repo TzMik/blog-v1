@@ -1,8 +1,8 @@
 ---
 title: "Buscar" # in any language you want
 layout: "search" # is necessary
-#url: "/post"
+# url: "/archive"
 # description: "Description for Search"
 summary: "search"
-placeholder: "Introduce el titulo del post"
+placeholder: "Añade palabras clave para buscar..."
 ---
