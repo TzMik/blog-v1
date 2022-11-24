@@ -35,6 +35,10 @@ menu:
   main:
     - name: Buscar
       url: search/
+    - name: Videoteca
+      url: videoteca/
+    - name: Post
+      url: post/
 
 outputs:
   home:
